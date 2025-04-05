@@ -57,6 +57,7 @@ This project is a unified platform that leverages LLMs (Large Language Models) t
 - Prometheus HTTP API / Splunk SDK
 - Scikit-learn / Prophet / Statsmodels (for time-series models)
 - FastAPI (for API endpoints)
+- Streamlit (for ChatBot UI interject with OpenAI LLM)
 
 > 💬 Add your own `.env` or `secret_key.py` to securely store API keys and credentials.
 
