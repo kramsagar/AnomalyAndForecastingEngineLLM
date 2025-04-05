@@ -73,19 +73,25 @@ cd AnomalyAndForecastingEngineLLM
 
 
 ## 🧱 High Level Design
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/d7b62076-170f-44fd-8349-c0dd2752fac5)
+
 
 ## 🧱 Flow Digram: Splunk Source Specific Anomaly Detection Engine
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/a9859efb-49d4-4736-b9bf-5b5987fcd615)
+
 
 ## 🧱 Flow Digram: Prometheus Source Specific Anomaly Detection Engine
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/865194e5-80fe-4186-842b-ab899d2ab601)
+
 
 
 ## 🖼️ POC Images
-![alt text](image-3.png)
 
-![alt text](image-4.png)
+![image](https://github.com/user-attachments/assets/a144d6df-f721-456f-8081-f471827b39d7)
+
+
+![image](https://github.com/user-attachments/assets/caa56b62-5254-4cc6-b76a-6bb7b4c5c9d5)
+
 
 ## Code Structure
 
